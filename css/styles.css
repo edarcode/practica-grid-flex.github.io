@@ -30,13 +30,13 @@ body {
   margin-right: auto;
 }
 
-.main-content__title{
-  margin-top: 0;
-}
-
 .main-content__testimonials{
   display: grid;
   gap: 15px;
+}
+
+.main-content__title{
+  margin-top: 0;
 }
 
 .testimonial{
